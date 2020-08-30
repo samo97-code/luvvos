@@ -1,0 +1,109 @@
+.services-boxes-area {
+    margin-top: 70px;
+    position: relative;
+    z-index: 3;
+}
+.single-box {
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+    height: 430px;
+}
+.single-box img {
+    border-radius: 5px;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.single-box .content {
+    background: linear-gradient(to right, #0ab9e4 0, #0282a5 100%);
+    padding: 25px 35px 25px;
+    position: absolute;
+    left: 0;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    height: auto;
+    width: 100%;
+    bottom: 0;
+}
+.single-box .hover-content {
+    background: linear-gradient(to right, #0ab9e4 0, #0282a5 100%);
+    padding: 65px 35px 50px;
+    position: absolute;
+    left: 0;
+    height: auto;
+    width: 100%;
+    bottom: -138px;
+    border-radius: 100% 100% 5px 5px;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    opacity: 0;
+    visibility: hidden;
+}
+.single-box .content h3 {
+    margin-bottom: 0;
+    position: relative;
+    padding-bottom: 15px;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 600;
+}
+.single-box .content h3::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: 0 auto;
+    background-color: #ffffff;
+    height: 2px;
+    width: 60px;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+}
+.single-box .content h3 a {
+    display: inline-block;
+    color: #ffffff;
+}
+.single-box .hover-content p {
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    color: #ffffff;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.single-box .hover-content .read-more-btn {
+    display: inline-block;
+    margin-top: 15px;
+    color: #ffffff;
+    position: relative;
+    font-size: 16px;
+    font-weight: 600;
+}
+.single-box .hover-content .read-more-btn::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 1px;
+    background-color: #524552;
+}
+.single-box:hover .content {
+    opacity: 0;
+    visibility: hidden;
+}
+.single-box:hover .hover-content {
+    opacity: 1;
+    visibility: visible;
+    bottom: 0;
+}
+.single-box .hover-content h3 a {
+    display: inline-block;
+    color: #ffffff;
+}

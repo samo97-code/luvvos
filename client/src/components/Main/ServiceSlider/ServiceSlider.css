@@ -1,0 +1,116 @@
+.single-services-box {
+    width: 92%!important;
+    position: relative;
+    margin-bottom: 30px;
+    text-align: center;
+    z-index: 1;
+    border-radius: 5px;
+    border: 1px solid #e9e9e9;
+    padding: 30px;
+    outline: none;
+    -webkit-transition: background-color 0.5s linear;
+    transition: background-color 0.5s linear;
+}
+.box-shape{
+    position: absolute;
+    left: 0;
+    top: 0
+}
+.icon-image img:last-child{
+    display: none;
+}
+.icon{
+    position: relative;
+}
+.icon-bg{
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.icon-bg img:last-child{
+    display: none;
+}
+.box-shape img:last-child{
+    display: none;
+}
+.single-services-box h3 {
+    margin-bottom: 15px;
+    position: relative;
+    padding-bottom: 13px;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 35px;
+    -webkit-transition: background-color 0.5s linear;
+    transition: background-color 0.5s linear;
+}
+.single-services-box h3::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: 0 auto;
+    background-color: #e9e9e9;
+    height: 2px;
+    width: 60px;
+    -webkit-transition: background-color 0.5s linear;
+    transition: background-color 0.5s linear;
+}
+.single-services-box h3 a {
+    display: inline-block;
+}
+.single-services-box:hover {
+    border-color: #524552;
+    background-color: #524552;
+}
+.single-services-box .read-more-btn {
+    display: inline-block;
+    margin-top: 15px;
+    color: #ff5d22;
+    font-size: 16px;
+    font-weight: 600;
+}
+.icon-bg img, .icon-image img{
+    margin: 0 auto;
+}
+.single-services-box:hover .box-shape img:last-child, .single-services-box:hover .icon-bg img:last-child, .single-services-box:hover .icon-image img:last-child{
+    display: block;
+    margin: 0 auto;
+}
+.single-services-box:hover .box-shape img:first-child, .single-services-box:hover .icon-bg img:first-child, .single-services-box:hover .icon-image img:first-child{
+    display: none;
+}
+.single-services-box:hover h3 a {
+    color: #ffffff;
+}
+.single-services-box:hover p{
+    color: #ffffff;
+}
+.single-services-box:hover h3::before {
+    background-color: #ff5d22;
+}
+.slick-slider.slick-initialized{
+    width: 100%;
+}
+.services-area .slick-prev:before, .services-area .slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: 0;
+    color: #ff5d22!important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.services-area .slick-arrow.slick-prev {
+    left: -35px;
+    z-index: 15;
+    top: 160px;
+}
+.services-area .slick-arrow.slick-next {
+    right: 4px;
+    z-index: 15;
+    top: 160px;
+}
+.services-area .slick-slider.slick-initialized:hover .slick-prev:before, .services-area .slick-slider.slick-initialized:hover .slick-next:before{
+    opacity: 0.75;
+}

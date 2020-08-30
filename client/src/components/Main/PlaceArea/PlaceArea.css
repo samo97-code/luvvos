@@ -1,0 +1,49 @@
+.place-area{
+    padding-bottom: 70px;
+}
+.place-area .main > div{
+    padding: 0;
+}
+.place-area .content h2{
+    color: white;
+    /*text-align: center;*/
+    margin-bottom: 0;
+    font-size: 42px;
+    font-weight: 700;
+}
+.place-area .content .header{
+    color: white;
+    font-size: 18px;
+    margin-bottom: 0;
+    margin-top: 10px;
+    width: 70%;
+}
+.place-area .item{
+    margin-bottom: 40px;
+}
+.place-area .blocks{
+    width: 80%;
+    text-align: center;
+    margin-top: 45px!important;
+}
+.place-area .why-image{
+    margin: 0 auto;
+    transition: all 0.5s linear;
+}
+.place-area .col-lg-5 .image-block{
+    width: 100%;
+    height: 711px;
+}
+.place-area  .blocks h6{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.place-area .col-lg-5 .image-block img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.place-area .item:hover .why-image{
+    transform: rotate(360deg);
+    transition: all 0.5s linear;
+}

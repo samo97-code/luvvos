@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8994475f-8845-456a-a7a4-1b397e04ae1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/public/images/why-choose-us/why-choose.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/footer-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/news/news1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/news/news1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/partner-slider/partner1.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/partner-slider/partner1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/partner-slider/partner2.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/partner-slider/partner2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/partner-slider/partner3.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/partner-slider/partner3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/partner-slider/partner4.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/partner-slider/partner4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/partner-slider/partner5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/partner-slider/partner6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/partner-slider/partner7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/services/service_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/services/service_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/services/service_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/services/service_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/services/service_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/services/service_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/slider/main-banner1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/slider/main-banner1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/slider/main-banner2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/slider/main-banner2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/slider/main-banner3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/slider/main-banner3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/images/thumbnail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Footer/Copyright/Copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Footer/Copyright/Copyright.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Footer/Copyright/Copyright.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Footer/Copyright/Copyright.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Footer/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Footer/Newsletter/Newletter.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Footer/Newsletter/Newletter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Footer/Newsletter/Newsletter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Footer/Newsletter/Newsletter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Header/Navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Header/Navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/HomePageLoading/HomePageLoading.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/HomePageLoading/HomePageLoading.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/HomePageLoading/HomePageLoading.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/HomePageLoading/HomePageLoading.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/AboutArea/AboutArea.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/AboutArea/AboutArea.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/News/News.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/News/News.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/OurMission/OurMission.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/OurMission/OurMission.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/OurMission/OurMission.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/OurMission/OurMission.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/PartnerSlider/PartnerSlider.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/PartnerSlider/PartnerSlider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/PartnerSlider/PartnerSlider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/PartnerSlider/PartnerSlider.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/PlaceArea/PlaceArea.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/PlaceArea/PlaceArea.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/PlaceArea/PlaceArea.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/PlaceArea/PlaceArea.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/Pricing/Pricing.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/Pricing/Pricing.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/Pricing/Pricing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/Pricing/Pricing.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/ServiceSlider/ServiceSlider.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/ServiceSlider/ServiceSlider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/Services/Services.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/Services/Services.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/Slider/Slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/Slider/Slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/Slider/Slider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/Slider/Slider.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/Team/Team.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/Team/Team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/Team/Team.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/Team/Team.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/WhyChooseUs/WhyChooseUs.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/WhyChooseUs/WhyChooseUs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/WhyChooseUs/WhyChooseUs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/WhyChooseUs/WhyChooseUs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/main_components/Button/Button.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/main_components/Button/Button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/main_components/Button/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/main_components/Button/Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/main_components/UnderLine/UnderLine.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/main_components/UnderLine/UnderLine.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1YcIhjkepL3Dx41Mbbl5AgR1NmA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.4.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../okaido/okaido" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\Desktop\tuam\client\public\images\why-choose-us" />
+      <recent name="C:\Users\ADMIN\Desktop\tuam\client\public\locales\ru" />
+      <recent name="C:\Users\ADMIN\Desktop\tuam\client\public\locales\am" />
+      <recent name="C:\Users\ADMIN\Desktop\tuam\client\src" />
+      <recent name="C:\Users\ADMIN\Desktop\tuam\client\public\locals\am" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\Desktop\tuam\client\src\components\main_components\Button" />
+      <recent name="C:\Users\ADMIN\Desktop\tuam\client\public\images\slider" />
+      <recent name="C:\Users\ADMIN\Desktop\tuam\client\src\components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="banners.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/models/banners.js" working-dir="$PROJECT_DIR$/models">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.banners.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8994475f-8845-456a-a7a4-1b397e04ae1a" name="Default Changelist" comment="" />
+      <created>1582375317156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582375317156</updated>
+      <workItem from="1582375318756" duration="8283000" />
+      <workItem from="1582481688126" duration="88000" />
+      <workItem from="1582742866614" duration="73000" />
+      <workItem from="1583235578081" duration="628000" />
+      <workItem from="1583236408367" duration="4433000" />
+      <workItem from="1583242410330" duration="4782000" />
+      <workItem from="1583258341589" duration="11739000" />
+      <workItem from="1583304412389" duration="2001000" />
+      <workItem from="1592728353823" duration="8267000" />
+      <workItem from="1592736736135" duration="215000" />
+      <workItem from="1592745729248" duration="664000" />
+      <workItem from="1592746539621" duration="10286000" />
+      <workItem from="1592757255840" duration="12000" />
+      <workItem from="1592805233119" duration="21000" />
+      <workItem from="1592835599120" duration="7667000" />
+      <workItem from="1592919091898" duration="7366000" />
+      <workItem from="1592974626182" duration="15000" />
+      <workItem from="1593005458665" duration="7181000" />
+      <workItem from="1593061227033" duration="11000" />
+      <workItem from="1593252533843" duration="18715000" />
+      <workItem from="1593334207884" duration="5568000" />
+      <workItem from="1593340220843" duration="10176000" />
+      <workItem from="1593412534635" duration="18000" />
+      <workItem from="1593447127796" duration="2751000" />
+      <workItem from="1593492747187" duration="12000" />
+      <workItem from="1593529159306" duration="6807000" />
+      <workItem from="1593579954875" duration="10000" />
+      <workItem from="1594308004393" duration="82000" />
+      <workItem from="1594356912116" duration="47000" />
+      <workItem from="1594386841227" duration="8283000" />
+      <workItem from="1594475037256" duration="810000" />
+      <workItem from="1594630936284" duration="15000" />
+      <workItem from="1594927853105" duration="169000" />
+      <workItem from="1594928034737" duration="6000" />
+      <workItem from="1594928046452" duration="2000" />
+      <workItem from="1594955489184" duration="8000" />
+      <workItem from="1596566670608" duration="103000" />
+      <workItem from="1597683414065" duration="2067000" />
+      <workItem from="1597730099869" duration="17000" />
+      <workItem from="1598453649132" duration="11864000" />
+      <workItem from="1598508934224" duration="29000" />
+      <workItem from="1598546056114" duration="4553000" />
+      <workItem from="1598628362915" duration="11023000" />
+      <workItem from="1598684353779" duration="614000" />
+      <workItem from="1598695420971" duration="23198000" />
+      <workItem from="1598772314769" duration="20198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="300" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1594475074981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="300" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1920.1040@0.0.1920.1040" timestamp="1594475074981" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593537314040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593537314040" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1598714051952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598714051952" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1593334821970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821970" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1593334821970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821970" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1593334821970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821970" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1593334821970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821970" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1593334821970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821970" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1593334821970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821970" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1593334821970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821970" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1593334821970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821970" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1593334821970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821970" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1593334821970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821970" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1593334821970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821970" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1593334821970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821970" />
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom" timestamp="1593334821971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821971" />
+    <state width="1877" height="348" key="GridCell.Tab.3.center" timestamp="1593334821971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821971" />
+    <state width="1877" height="348" key="GridCell.Tab.3.left" timestamp="1593334821971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821971" />
+    <state width="1877" height="348" key="GridCell.Tab.3.right" timestamp="1593334821971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593334821971" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1594475246044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594475246044" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592734034304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592734034304" />
+    <state x="667" y="253" width="585" height="558" key="find.popup" timestamp="1598802631110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="558" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598802631110" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1592839689322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592839689322" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598786214637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598786214637" />
+  </component>
+</project>

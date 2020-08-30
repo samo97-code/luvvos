@@ -1,0 +1,152 @@
+#preloader {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 99999;
+    top: 0;
+    left: 0;
+    background: #4834d4;
+    background: -webkit-linear-gradient(to right, #4834d4, #341f97);
+    background: -webkit-linear-gradient(left, #4834d4, #341f97);
+    background: linear-gradient(to right, #4834d4, #341f97)
+}
+
+.preload-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -35px;
+    margin-left: -35px;
+    z-index: 100
+}
+
+#dream-load {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 3px;
+    border-style: solid;
+    border-color: transparent;
+    border-top-color: rgba(255, 255, 255, .5);
+    -webkit-animation: dreamrotate 2.4s linear infinite;
+    animation: dreamrotate 2.4s linear infinite;
+    z-index: 999
+}
+
+#dream-load:before {
+    content: "";
+    position: absolute;
+    top: 7.5px;
+    left: 7.5px;
+    right: 7.5px;
+    bottom: 7.5px;
+    border-radius: 50%;
+    border: 3px;
+    border-style: solid;
+    border-color: transparent;
+    border-top-color: rgba(255, 255, 255, .5);
+    -webkit-animation: dreamrotate 2.7s linear infinite;
+    animation: dreamrotate 2.7s linear infinite
+}
+
+#dream-load:after {
+    content: "";
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 50%;
+    border: 3px;
+    border-style: solid;
+    border-color: transparent;
+    border-top-color: rgba(255, 255, 255, .5);
+    -webkit-animation: dreamrotate 1.8s linear infinite;
+    animation: dreamrotate 1.8s linear infinite
+}
+
+@-webkit-keyframes dreamrotate {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0)
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg)
+    }
+}
+
+@keyframes dreamrotate {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0)
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg)
+    }
+}
+
+.dream-blip {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    border-radius: 2em 2em 2em 2em;
+    background-color: #21d397;
+    box-shadow: 0 0 5px #fff;
+    -webkit-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    opacity: 0;
+    -webkit-animation: dreamblipper ease 4s none infinite;
+    animation: dreamblipper ease 4s none infinite
+}
+
+@-webkit-keyframes dreamblipper {
+    0% {
+        opacity: 0
+    }
+    35% {
+        opacity: 0
+    }
+    50% {
+        opacity: 1
+    }
+    100% {
+        opacity: 0
+    }
+}
+
+@keyframes dreamblipper {
+    0% {
+        opacity: 0
+    }
+    35% {
+        opacity: 0
+    }
+    50% {
+        opacity: 1
+    }
+    100% {
+        opacity: 0
+    }
+}
+
+.dream-blip.blip1 {
+    top: 20%;
+    left: 20%
+}
+
+.dream-blip.blip2 {
+    top: 70%;
+    left: 30%
+}
+
+.dream-blip.blip3 {
+    top: 30%;
+    left: 10%
+}
+
+.dream-blip.blip4 {
+    top: 60%;
+    left: 10%
+}

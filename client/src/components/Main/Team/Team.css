@@ -1,0 +1,141 @@
+.team {
+    padding-bottom: 70px
+}
+
+.team-member {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.team-member .img-block {
+    width: 255px;
+    /*height: 302px*/
+}
+
+.team-member .img-block img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover
+}
+
+.team-member ul {
+    position: absolute;
+    padding-left: 0;
+    list-style: none;
+    top: 40%;
+    width: 100%;
+    text-align: center
+}
+
+.team-member ul li {
+    display: inline-block;
+    margin-right: 10px;
+    opacity: 0;
+    transform: translateY(130px);
+    transition: all .5s ease 0s;
+    visibility: hidden
+}
+
+.team-member li:nth-child(2n) {
+    transition: all .6s ease 0s
+}
+
+.team-member li:nth-child(3n) {
+    transition: all .8s ease 0s
+}
+
+.team-member li:nth-child(4n) {
+    transition: all 1s ease 0s;
+    margin-right: 0
+}
+
+.team-member:hover .hover-icon {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(10px)
+}
+
+.team-member ul li a {
+    background: linear-gradient(to right, #0ab9e4 0, #0282a5 100%);
+    width: 38px;
+    height: 38px;
+    display: inline-block;
+    border-radius: 50%;
+    position: relative
+}
+
+.team-member ul li a:hover {
+    background: linear-gradient(to right, #0496b8 0, #016f8d 100%)
+}
+
+.team-member ul li a i {
+    color: #fff;
+    position: absolute;
+    top: 26%;
+    left: 28%;
+    font-size: 20px
+}
+
+.team-info {
+    background: linear-gradient(to right, #0ab9e4 0, #0282a5 100%);
+    padding-top: 20px;
+    padding-bottom: 15px
+}
+
+.team-info h5 {
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 2px
+}
+
+.team-info p {
+    color: #fff !important;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.team-title {
+    text-align: center;
+    margin-bottom: 50px
+}
+.team-info{
+    text-align: center;
+}
+.team-title h2 {
+    margin-bottom: 0;
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.team-title p {
+    width: 65%;
+    margin: 0 auto
+}
+
+@media (max-width: 1200px) {
+    .team-member .img-block {
+        width: auto
+    }
+}
+
+@media (max-width: 991px) {
+    .team .col-lg-3.col-sm-6 {
+        margin-bottom: 30px
+    }
+}
+
+@media (max-width: 600px) {
+    .team-title {
+        margin-top: 40px
+    }
+
+    .team-member .img-block {
+        width: auto;
+        height: auto
+    }
+
+    .team-title p {
+        width: 100%
+    }
+}

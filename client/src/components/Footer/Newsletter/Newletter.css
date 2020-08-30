@@ -1,0 +1,88 @@
+.subscribe-form {
+    padding-left: 30px;
+    margin-top: 18px;
+}
+.subscribe-form form {
+    position: relative;
+}
+.subscribe h3{
+    color: white;
+    margin-bottom: 10px;
+    font-size: 34px;
+    font-weight: 700;
+}
+.subscribe p{
+    display: block;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 20px;
+}
+.subscribe-form form .input-newsletter {
+    display: block;
+    width: 100%;
+    color: #524552;
+    height: 65px;
+    border-radius: 5px;
+    border: none;
+    padding-left: 20px;
+    outline: 0;
+    -webkit-box-shadow: unset !important;
+    box-shadow: unset !important;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "IBM Plex Sans", sans-serif;
+}
+button, input {
+    overflow: visible;
+}
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+.subscribe-form .default-btn {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    background: linear-gradient(to right, #0ab9e4 0, #0282a5 100%);
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    height: 55px;
+    line-height: 55px;
+    padding: 0 30px;
+    letter-spacing: .5px;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    font-size: 16px;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+}
+.subscribe-form form button:hover{
+    background: linear-gradient(to right, #0eb0e3 0, #06577f 50%, #033e57 100%)!important;
+}
+.subscribe-form form button:hover {
+    color: #ffffff;
+    background-color: #524552;
+}
+@media (max-width: 767px) {
+    .subscribe-form{
+        display: contents;
+    }
+}
+@media (max-width: 500px) {
+    .hide-mobile{
+        display: none;
+    }
+}
+@media (max-width: 450px) {
+    .subscribe-form form button{
+        position: static;
+        margin-top: 20px;
+        width: 100%;
+    }
+}
+@media (max-width: 380px) {
+    .subscribe-form form button {
+        padding: 0 20px;
+    }
+}

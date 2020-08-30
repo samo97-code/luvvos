@@ -1,0 +1,36 @@
+.new-area{
+    padding-bottom: 70px;
+}
+.new-area .item{
+    background: white;
+    box-shadow: 0 0 14px -3px rgba(0,0,0,0.3);
+}
+.new-area .item .image-block{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    border-radius: 5px;
+}
+.new-area .item .image-block img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: 0.5s;
+}
+.new-area .item .image-block img:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+.new-area .item .description{
+    padding: 35px 35px;
+}
+.new-area .item .description h4{
+    margin-bottom: 7px;
+    font-weight: 600;
+}
+@media (max-width: 767px) {
+    .new-area .item {
+        margin-bottom: 35px;
+    }
+}
