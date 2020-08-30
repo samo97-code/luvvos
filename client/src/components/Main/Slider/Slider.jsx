@@ -43,7 +43,7 @@ const Slider = () => {
         infinite: true,
         arrows: false,
         speed: 2500,
-        margin: 50,
+        margin: 51,
         // autoplay: true,
         // autoplaySpeed: 5000,
         slidesToShow: 1,
