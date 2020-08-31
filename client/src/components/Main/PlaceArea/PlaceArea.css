@@ -47,3 +47,32 @@
     transform: rotate(360deg);
     transition: all 0.5s linear;
 }
+@media (max-width: 1650px) {
+    .place-area .blocks{
+        width: 100%!important;
+    }
+}
+@media (max-width: 1460px) {
+    .place-area .col-lg-5 .image-block {
+        height: 743px;
+    }
+}
+@media (max-width: 1340px) {
+    .place-area .col-lg-5 .image-block {
+        height: 100%;
+    }
+}
+@media (max-width: 991px){
+    .place-area .col-lg-5 .image-block {
+        height: 700px;
+    }
+    .place-area .content h2{
+        text-align: center;
+    }
+    .place-area .content .header {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+

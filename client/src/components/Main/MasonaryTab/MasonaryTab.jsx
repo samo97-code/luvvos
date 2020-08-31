@@ -26,7 +26,7 @@ const MasonaryTab = () => {
                         </ul>
                     </div>
                     <div className="row grid-layout">
-                        <div className={['col-md-4',selectedTab === 'all' || selectedTab === 'apartment' ? 'show' : 'hide'].join(' ')}>
+                        <div className={['col-lg-4 col-md-6',selectedTab === 'all' || selectedTab === 'apartment' ? 'show' : 'hide'].join(' ')}>
                             <div className='item'>
                                 <div className="img-block"><img src="/images/products/apartment1.jpg" alt=""/></div>
                                 <div className="content">
@@ -66,7 +66,7 @@ const MasonaryTab = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className={['col-md-4',selectedTab === 'all' || selectedTab === 'house' ? 'show' : 'hide'].join(' ')}>
+                        <div className={['col-lg-4 col-md-6',selectedTab === 'all' || selectedTab === 'house' ? 'show' : 'hide'].join(' ')}>
                             <div className='item'>
                                 <div className="img-block"><img src="/images/products/house1.jpg" alt=""/></div>
                                 <div className="content">
@@ -106,7 +106,7 @@ const MasonaryTab = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className={['col-md-4',selectedTab === 'all' || selectedTab === 'villa' ? 'show' : 'hide'].join(' ')}>
+                        <div className={['col-lg-4 col-md-6',selectedTab === 'all' || selectedTab === 'villa' ? 'show' : 'hide'].join(' ')}>
                             <div className='item'>
                                 <div className="img-block"><img src="/images/products/villa1.jpg" alt=""/></div>
                                 <div className="content">
@@ -146,7 +146,7 @@ const MasonaryTab = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className={['col-md-4',selectedTab === 'all' || selectedTab === 'villa' ? 'show' : 'hide'].join(' ')}>
+                        <div className={['col-lg-4 col-md-6',selectedTab === 'all' || selectedTab === 'villa' ? 'show' : 'hide'].join(' ')}>
                             <div className='item'>
                                 <div className="img-block"><img src="/images/products/villa2.jpg" alt=""/></div>
                                 <div className="content">
@@ -186,7 +186,7 @@ const MasonaryTab = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className={['col-md-4',selectedTab === 'all' || selectedTab === 'house' ? 'show' : 'hide'].join(' ')}>
+                        <div className={['col-lg-4 col-md-6',selectedTab === 'all' || selectedTab === 'house' ? 'show' : 'hide'].join(' ')}>
                             <div className='item'>
                                 <div className="img-block"><img src="/images/products/house2.jpg" alt=""/></div>
                                 <div className="content">
@@ -226,7 +226,7 @@ const MasonaryTab = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className={['col-md-4',selectedTab === 'all' || selectedTab === 'apartment' ? 'show' : 'hide'].join(' ')}>
+                        <div className={['col-lg-4 col-md-6',selectedTab === 'all' || selectedTab === 'apartment' ? 'show' : 'hide'].join(' ')}>
                             <div className='item'>
                                 <div className="img-block"><img src="/images/products/apartment2.png" alt=""/></div>
                                 <div className="content">

@@ -112,6 +112,11 @@
         justify-content: flex-end;
     }
 }
+@media (max-width: 991px) {
+    .navbar-nav{
+        display: block;
+    }
+}
 @media (max-width: 600px) {
     .tuamNav {
         top: 0px;

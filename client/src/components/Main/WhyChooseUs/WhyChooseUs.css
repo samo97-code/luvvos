@@ -18,7 +18,7 @@
     display: block;
     width: 100%;
     height: 100%;
-    padding: 100px 70px;
+    padding: 70px;
 }
 .why-choose-use .content h5{
     color: #ff5d22;
@@ -101,6 +101,15 @@
         padding: 100px 50px;
     }
 }
+@media (max-width: 991px) {
+    .why-choose-use .content h2{
+        text-align: center;
+    }
+    .why-choose-use .content .header{
+        text-align: center;
+        width: 100%;
+    }
+}
 @media (max-width: 767px) {
     .why-choose-use .col-md-6.col-sm-6{
         margin-bottom: 25px;
@@ -117,9 +126,14 @@
         margin: 0 auto;
     }
 }
+@media (max-width: 576px) {
+    .content{
+        padding: 70px 20px!important;
+    }
+}
 @media (max-width: 450px) {
-    .content {
-        padding: 100px 30px;
+    .why-choose-use .content {
+        padding: 70px 30px;
     }
 }
 

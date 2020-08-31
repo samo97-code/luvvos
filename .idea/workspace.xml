@@ -20,60 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8994475f-8845-456a-a7a4-1b397e04ae1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/public/images/why-choose-us/why-choose.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/footer-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/news/news1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/news/news1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/partner-slider/partner1.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/partner-slider/partner1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/partner-slider/partner2.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/partner-slider/partner2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/partner-slider/partner3.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/partner-slider/partner3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/partner-slider/partner4.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/partner-slider/partner4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/partner-slider/partner5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/partner-slider/partner6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/partner-slider/partner7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/services/service_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/services/service_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/services/service_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/services/service_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/services/service_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/services/service_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/slider/main-banner1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/slider/main-banner1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/slider/main-banner2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/slider/main-banner2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/slider/main-banner3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/images/slider/main-banner3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/images/thumbnail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Footer/Copyright/Copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Footer/Copyright/Copyright.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Footer/Copyright/Copyright.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Footer/Copyright/Copyright.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Footer/Footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Footer/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Footer/Newsletter/Newletter.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Footer/Newsletter/Newletter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Footer/Newsletter/Newsletter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Footer/Newsletter/Newsletter.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Header/Header.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Header/Navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Header/Navbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/HomePageLoading/HomePageLoading.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/HomePageLoading/HomePageLoading.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/HomePageLoading/HomePageLoading.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/HomePageLoading/HomePageLoading.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/AboutArea/AboutArea.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/AboutArea/AboutArea.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Main/AboutArea/AboutArea.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/AboutArea/AboutArea.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Main/News/News.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/News/News.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/MasonaryTab/MasonaryTab.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/MasonaryTab/MasonaryTab.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Main/MasonaryTab/MasonaryTab.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/MasonaryTab/MasonaryTab.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Main/OurMission/OurMission.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/OurMission/OurMission.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Main/OurMission/OurMission.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/OurMission/OurMission.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Main/PartnerSlider/PartnerSlider.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/PartnerSlider/PartnerSlider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Main/PartnerSlider/PartnerSlider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/PartnerSlider/PartnerSlider.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Main/PlaceArea/PlaceArea.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/PlaceArea/PlaceArea.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Main/PlaceArea/PlaceArea.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/PlaceArea/PlaceArea.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Main/Pricing/Pricing.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/Pricing/Pricing.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Main/Pricing/Pricing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/Pricing/Pricing.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Main/ServiceSlider/ServiceSlider.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/ServiceSlider/ServiceSlider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Main/Services/Services.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/Services/Services.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Main/Slider/Slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/Slider/Slider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Main/Slider/Slider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/Slider/Slider.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Main/Team/Team.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/Team/Team.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Main/Team/Team.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/Team/Team.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Main/WhyChooseUs/WhyChooseUs.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/WhyChooseUs/WhyChooseUs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Main/WhyChooseUs/WhyChooseUs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Main/WhyChooseUs/WhyChooseUs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/main_components/Button/Button.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/main_components/Button/Button.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/main_components/Button/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/main_components/Button/Button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/main_components/UnderLine/UnderLine.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/main_components/UnderLine/UnderLine.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +74,7 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.4.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../okaido/okaido" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -201,6 +162,9 @@
       <workItem from="1598684353779" duration="614000" />
       <workItem from="1598695420971" duration="23198000" />
       <workItem from="1598772314769" duration="20198000" />
+      <workItem from="1598803911243" duration="966000" />
+      <workItem from="1598851281030" duration="41000" />
+      <workItem from="1598886862762" duration="4853000" />
     </task>
     <servers />
   </component>
@@ -228,10 +192,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593537314040" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1598714051952">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1598851319989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598714051952" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598851319989" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1593334821970">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -304,10 +268,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592734034304" />
-    <state x="667" y="253" width="585" height="558" key="find.popup" timestamp="1598802631110">
+    <state x="667" y="253" width="585" height="558" key="find.popup" timestamp="1598903967648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="253" width="585" height="558" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598802631110" />
+    <state x="667" y="253" width="585" height="558" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598903967648" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1592839689322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

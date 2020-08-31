@@ -21,9 +21,16 @@
     font-weight: 700;
 }
 .partner-slider p{
-    width: 65%;
+    width: 70%;
     text-align: center;
     margin: 0 auto 50px auto;
+    font-size: 18px;
+    padding-top: 10px;
+}
+@media (max-width: 767px) {
+    .partner-slider p {
+        width: 100%;
+    }
 }
 @media (max-width: 576px) {
     .partner-slider .slick-slider.slick-initialized {

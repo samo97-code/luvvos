@@ -8,8 +8,10 @@
 
 }
 .pricing-area .title p{
-    width: 65%;
+    width: 70%;
     margin: 0 auto;
+    font-size: 18px;
+    padding-top: 10px;
 }
 .pricing-area .pricing-block{
     margin-top: 50px;

@@ -160,3 +160,33 @@
 .grid-layout .item:hover .item-action{
     transform: translateY(-62px);
 }
+.masonary-tab > .container > .row{
+    justify-content: center;
+}
+@media (max-width: 767px) {
+    .masonary-tab .row > p {
+        width: 100%;
+    }
+    .masonary-tab .tabs ul li {
+        margin-right: 10px;
+        font-size: 22px;
+    }
+}
+@media (max-width: 550px) {
+    .masonary-tab .tabs ul {
+        flex-wrap: wrap;
+    }
+    .masonary-tab .tabs ul li span {
+        padding: 0 14px;
+    }
+    .masonary-tab .tabs ul li {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+}
+@media (max-width: 360px) {
+    .masonary-tab .tabs {
+        margin-bottom: 0px;
+        padding: 10px;
+    }
+}

@@ -26,3 +26,21 @@
 .about-text {
     padding-left: 35px;
 }
+.about-area .about-text p{
+    font-size: 18px;
+}
+@media (max-width: 767px) {
+    .about-title {
+        border-right: none;
+        padding-right: 0px;
+        margin-bottom: 20px;
+    }
+    .about-text {
+         padding-left: 0px;
+    }
+}
+@media (max-width: 480px) {
+     h2 {
+        font-size: 30px!important;
+    }
+}

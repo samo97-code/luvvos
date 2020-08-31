@@ -37,29 +37,6 @@ const App = () => {
         dispatch(fetchSliderBanner())
         // dispatch(fetchServiceSlider())
 
-        // var value = 500
-        // var sum = 0
-        // console.log('Start = 500 dram')
-        // console.log('Avg score = 1.5')
-        // console.log('Total games 9')
-        // console.log('Each game set only 500 dram')
-        // for (let i=1;i<=10;i++){
-        //     if(i == 1){
-        //         sum += (value * 1.5)
-        //     }else{
-        //         sum = sum - value + (value * 1.5)
-        //     }
-        //     console.log(`Game ${i} = `,sum+' dram')
-        // }
-        // console.log('Win 7 games, sum = ', sum+' dram')
-        // console.log('Lose 3 games(1500), sum = ', sum - 1000 +'dram')
-        // sum = sum - 1000
-        // console.log('Remove start value(500), Clear win sum = ', sum - 500)
-        // sum = sum - 500
-        //
-        // console.log("End of month(30or), sum = "+sum * 30+' dram')
-
-
     },[])
 
 
